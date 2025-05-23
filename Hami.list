@@ -18,6 +18,6 @@ DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
 DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
 DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
-#DOMAIN-SUFFIX,cdi.ofiii.com
-#DOMAIN-SUFFIX,www.ofiii.com
-DOMAIN-KEYWORD,ofiii
+# DOMAIN-SUFFIX,cdi.ofiii.com
+# DOMAIN-SUFFIX,www.ofiii.com
+DOMAIN-KEYWORD,ofiii.com
